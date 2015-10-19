@@ -1,2 +1,2 @@
 # furry-android-adventure
-Creating a Time Tracker app
+A blog describing my android adventures.
