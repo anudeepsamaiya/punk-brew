@@ -1,2 +1,2 @@
-# furry-android-adventure
-A blog describing my android adventures.
+# Punk Adventure
+An app for beers from punkapi.com
